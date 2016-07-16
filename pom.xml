@@ -14,12 +14,10 @@
     <module>module-demo1</module>
   	<module>module-demo2</module>
   </modules>
-
   <properties>
-	<teclan.version>0.1.0-SNAPSHOT</teclan.version>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	 <teclan.version>0.1.0-SNAPSHOT</teclan.version>
+	 <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
-
   <dependencies>
   	<dependency>
 	  <groupId>org.slf4j</groupId>
@@ -33,6 +31,5 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  
   
 </project>
